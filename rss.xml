@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[yoav]]></title>
+        <description><![CDATA[yoav]]></description>
+        <link>http://yoavlurie.com/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Jan 2016 04:52:38 GMT</lastBuildDate>
+        <atom:link href="http://yoavlurie.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <link>http://yoavlurie.com/dbf31d99-ecaa-4e88-ba8c-e0b66c73221d/index.html</link>
+            <guid isPermaLink="false">dbf31d99-ecaa-4e88-ba8c-e0b66c73221d</guid>
+            <pubDate>Thu, 28 Jan 2016 04:52:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
