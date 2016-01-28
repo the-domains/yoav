@@ -1,0 +1,28 @@
+name: yoav
+favicon: null
+layout_spectrum: 0.601004031021148
+typography_spectrum: 0.21647107461467385
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.5627582864835858
+  lightness: 0.08404475916177034
+  saturation: 0.639866535551846
+  rhythmicContrast: 0.2228635223582387
+purpose: []
